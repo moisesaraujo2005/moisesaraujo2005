@@ -1,4 +1,4 @@
-### Seja bem vindo, eu sou o Moisés Silva 👾
+### Seja bem vindo, eu sou o Moisés Silva 🛹
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisés-silva-70827823b/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31au3vezepka37bldoddk6346zgy?si=54554e0ed2d74c0d)
