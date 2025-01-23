@@ -17,7 +17,7 @@
     <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
      <img align="center" alt="php" src="https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=php&logoColor=white" />
-      <img align="center" alt="drupal" src="https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=php&logoColor=white" />
+      <img align="center" alt="drupal" src="https://img.shields.io/badge/Drupal-007396?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
     
